@@ -6,8 +6,6 @@ else:
     print ('here be your coal')
 
 
-
-
  
 # gameish?
 guess = 6
