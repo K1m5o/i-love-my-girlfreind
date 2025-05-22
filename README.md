@@ -8,9 +8,7 @@ else:
 
 
 
-    
-    
-
+ 
 # gameish?
 guess = 6
 
